@@ -1,3 +1,5 @@
+# tiny
+
 The main of this CTF just invoke the play function:
 ```c
 void game(void)
