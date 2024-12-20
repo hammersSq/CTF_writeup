@@ -11,14 +11,12 @@
             "id": "725d8f6c4d00252e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "natas/Natas0.md",
-                "mode": "source",
-                "source": false
+                "file": "natas/imgs/natas2_image.png"
               },
-              "icon": "lucide-file",
-              "title": "Natas0"
+              "icon": "lucide-image",
+              "title": "natas2_image"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas0.md",
+                "file": "natas/imgs/natas2_image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Natas0"
+              "title": "Backlinks for natas2_image"
             }
           },
           {
@@ -173,11 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "725d8f6c4d00252e",
+  "active": "30507fffba771a9b",
   "lastOpenFiles": [
-    "natas/Natas1.md",
     "natas/Natas2.md",
+    "natas/imgs/natas2_image.png",
     "natas/Natas0.md",
+    "natas/Natas1.md",
     "natas/imgs/natas0_image.png",
     "natas/Natas challenges.md",
     "natas/imgs/\"Pasted.md",
