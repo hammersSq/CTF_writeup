@@ -155,7 +155,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4802ea890219b83a",
+  "active": "4908f8f9db48d18b",
   "lastOpenFiles": [
     "natas/imgs",
     "natas/imgs/Pasted image 20241220165843.png",
