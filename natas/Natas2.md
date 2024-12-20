@@ -1,3 +1,5 @@
 # Natas 2
 In this challenge you can access to various directory in the server directly from the browser.
-An hint is given from the html of the page that uses the image "file/pixel"
+An hint is given from the html of the page that uses the image "files/pixel". 
+In the url if tou try to visit "/files" you can access to various file and directory:
+
