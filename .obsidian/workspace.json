@@ -11,13 +11,14 @@
             "id": "4908f8f9db48d18b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "natas/natas0.md",
-                "staged": false
+                "mode": "preview",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (natas0)"
+              "icon": "lucide-file",
+              "title": "natas0"
             }
           }
         ]
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +176,7 @@
   },
   "active": "4908f8f9db48d18b",
   "lastOpenFiles": [
+    "README.md",
     "natas/natas0.md",
     "Offensive_and_defensive_Cybersecurity/multistage.md"
   ]
