@@ -11,12 +11,14 @@
             "id": "725d8f6c4d00252e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "natas/imgs/natas2_image.png"
+                "file": "natas/Natas2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "natas2_image"
+              "icon": "lucide-file",
+              "title": "Natas2"
             }
           }
         ]
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/imgs/natas2_image.png",
+                "file": "natas/Natas2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for natas2_image"
+              "title": "Backlinks for Natas2"
             }
           },
           {
@@ -171,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30507fffba771a9b",
+  "active": "725d8f6c4d00252e",
   "lastOpenFiles": [
-    "natas/Natas2.md",
     "natas/imgs/natas2_image.png",
+    "natas/Natas2.md",
     "natas/Natas0.md",
     "natas/Natas1.md",
     "natas/imgs/natas0_image.png",
