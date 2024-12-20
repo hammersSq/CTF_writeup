@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Untitled.md",
+                "file": "natas/Natas4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Natas4"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Untitled.md",
+                "file": "natas/Natas4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Natas4"
             }
           },
           {
@@ -176,7 +176,7 @@
   "active": "725d8f6c4d00252e",
   "lastOpenFiles": [
     "natas/Natas3.md",
-    "natas/Untitled.md",
+    "natas/Natas4.md",
     "natas/Natas2.md",
     "natas/imgs/natas3_image2.png",
     "natas/imgs/natas3_image.png",
