@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/natas0.md",
+                "file": "natas/Natas0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "natas0"
+              "title": "Natas0"
             }
           }
         ]
@@ -177,7 +177,7 @@
   "active": "4908f8f9db48d18b",
   "lastOpenFiles": [
     "README.md",
-    "natas/natas0.md",
+    "natas/Natas0.md",
     "Offensive_and_defensive_Cybersecurity/multistage.md"
   ]
 }
