@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27eae1b0a3efc9b5",
+        "id": "b1ae132023130da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4908f8f9db48d18b",
+            "id": "725d8f6c4d00252e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas0.md",
+                "file": "natas/imgs/\"Pasted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natas0"
+              "title": "\"Pasted"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "natas/Natas0.md",
+                "file": "natas/imgs/\"Pasted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Natas0"
+              "title": "Backlinks for \"Pasted"
             }
           },
           {
@@ -173,12 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4908f8f9db48d18b",
+  "active": "725d8f6c4d00252e",
   "lastOpenFiles": [
-    "image_url_or_path.md",
+    "natas/imgs/\"Pasted.md",
     "natas/Natas0.md",
+    "Pasted image 20241220165843.png",
+    "image_url_or_path.md",
     "natas/imgs",
-    "natas/imgs/Pasted image 20241220165843.png",
     "natas/Natas challenges.md",
     "README.md",
     "Offensive_and_defensive_Cybersecurity/multistage.md"
