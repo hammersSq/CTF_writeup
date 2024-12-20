@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offensive_and_defensive_Cybersecurity/multistage.md",
+                "file": "natas/Natas0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for multistage"
+              "title": "Backlinks for Natas0"
             }
           },
           {
@@ -155,13 +155,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30507fffba771a9b",
+  "active": "4802ea890219b83a",
   "lastOpenFiles": [
     "natas/imgs",
     "natas/imgs/Pasted image 20241220165843.png",
