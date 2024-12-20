@@ -1,1 +1,2 @@
-The natas challanges are a series of challanges 
+# Natas challenges
+The natas challenges are a series of web challenges with variable difficulty. 
