@@ -13,3 +13,15 @@ function encodeSecret($secret) {
 ```
 
 reversing the function is straightforward 
+
+```php
+function decode($secret){
+	return base64_decode(strrev(hex2bin($secret)))
+}
+```
+this can be ran in every php sandbox and you can obtain the secret:
+oubWYf2kBq
+
+put this in the challenge and you obtain the password for the next challenge
+
+ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
