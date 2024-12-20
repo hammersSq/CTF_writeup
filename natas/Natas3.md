@@ -7,4 +7,6 @@ The robots.txt file!
 
 
 ![Screenshot](imgs/natas3_image2.png)
- The robots.txt says that there is a page that is not listed in the research engines "/s3"
+ The robots.txt says that there is a page that is not listed in the research engines "/s3cr3t".
+
+visit that page will show you
