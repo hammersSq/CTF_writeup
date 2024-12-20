@@ -10,4 +10,9 @@ with this modification you have the password for the next challenge:
 
 # Close up
 Since i've never seen the **Referer** header in http request i did a quick research to understood when it is used and for what.
-*The HTTP `Referer`request header contains the absolute or partial address from which a resource has been requested. The `Referer` header allows a server to identify referring pages that people are visiting from or where requested resources are being used. This data can be used for analytics, logging, optimized caching, and more.*
+[Refer security problem](https://developer.mozilla.org/en-US/docs/Web/Security/Referer_header:_privacy_and_security_concerns) 
+
+The referer contains the addres of a request, meaning the address from which a resource is requested with http (eg. the web page url where i clicked the current link i'm using in http).
+
+interesting example of security problem cited in the article:
+*Consider a "reset password" page with a social media link in a footer. If the link was followed, depending on how information was shared the social media site may receive the reset password URL and may still be able to use the shared information, potentially compromising a user's security.*

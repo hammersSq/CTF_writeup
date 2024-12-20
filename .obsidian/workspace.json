@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "natas/Natas4.md",
+                "file": "natas/Natas6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natas4"
+              "title": "Natas6"
             }
           }
         ]
@@ -176,6 +176,7 @@
   "active": "725d8f6c4d00252e",
   "lastOpenFiles": [
     "natas/Natas5.md",
+    "natas/Natas6.md",
     "natas/Natas4.md",
     "natas/Natas3.md",
     "natas/imgs/natas4_image.png",
