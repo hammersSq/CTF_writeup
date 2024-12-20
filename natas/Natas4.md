@@ -10,3 +10,4 @@ with this modification you have the password for the next challenge:
 
 # Close up
 Since i've never seen the **Referer** header in http request i did a quick research to understood when it is used and for what.
+*The HTTP **`Referer`** [request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header) contains the absolute or partial address from which a resource has been requested. The `Referer` header allows a server to identify referring pages that people are visiting from or where requested resources are being used. This data can be used for analytics, logging, optimized caching, and more.*
