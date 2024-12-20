@@ -4,4 +4,4 @@ Also here you have an hint from the challenge:
 
 At the beginning i did not understand what he was referring to, but i was positive that it was talking about the HTTP request, so i opened Burp to look at it:
 ![Screenshot](./imgs/natas4_image.png)
-We can se that the request for the root directory is made with the host "http://natas4.natas.labs.overthewire.org/", so i tried to change it with "http://natas5.natas.labs.overthewire.org/"
+We can se that the request for the root directory is made with the Referer "http://natas4.natas.labs.overthewire.org/", so i tried to change it with "http://natas5.natas.labs.overthewire.org/"
