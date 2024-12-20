@@ -9,4 +9,4 @@ with this modification you have the password for the next challenge:
 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
 
 # Close up
-Since i've never seen the **Referer** header in http request
+Since i've never seen the **Referer** header in http request i did a quick research to understood when it is used and for what.
