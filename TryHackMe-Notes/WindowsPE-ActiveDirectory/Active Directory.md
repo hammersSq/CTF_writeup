@@ -25,3 +25,19 @@ Questo è quello che succede quando un utente prova ad accedere con le proprie c
 3. Una volta autenticato, viene generato un **Token** di accesso che contiene i diritti e i privilegi dell'utente (e.g. i gruppi di cui fa parte e i permessi associati)
 
 ## Active Directory Domain Service (AD DS)
+**Active Directory Domain Service** è il servizio che contiene e fornisce le informazioni su tutti gli *oggetti* che esistono all'interno della rete. 
+Tra i tipi di oggetti più comuni abbiamo:
+- Utenti (Users)
+- Macchine (Machines)
+- Stampanti (Printers)
+- Shares (Cartelle condivise)
+### Users
+Gli utenti sono il tipo di oggetto più comune dentro l'Active Directory. Gli utenti fanno parte di un insieme di oggetti chiamato **Security Principals**, ovvero *oggetti che possono essere autenticati da un Domain Controller e i quali possono possedere privilegi su altre risorse all' interno del dominio (come stampanti o file).*
+
+> Un **Security Principal** è un oggetto che opera su altre risorse nella rete
+
+Gli utenti possono rappresentare due tipi di entità:
+- **Persone**: Questo è il caso più comune, ad ogni persona nella rete (e.g. ad ogni dipendente) viene associato un utente.
+- **Servizi**: Un utente viene creato per uno specifico servizio, come ad esempio per gestire un database SQL. Le utenze di servizio vengono create con l'insieme minimo di privilegi per lanciare quel servizio.
+### Machines
+Ad ogni computer nella rete aziendale viene associato un oggetto Macchina nell'Active Directory. Le macchine sono considerate dei **Security Principals** e per ogni macchina viene creato un account, come accade per gli utenti.
