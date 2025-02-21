@@ -83,4 +83,5 @@ Le OU sono utilizzate per gestire configurazioni specifiche per un certo diparti
 
 
 Ogni amministratore può creare nuovi oggetti, assegnarli a gruppi e a OU. 
-Una funzionalità comoda è la delegation: un Admin può delegare uno user per la gestione di una OU, anche solo per funzioni specifiche (delegare l'utente Nicola per il reset password di un utente)
+Una funzionalità comoda è la delegation: un Admin può delegare uno user per la gestione di una OU, anche solo per funzioni specifiche (delegare l'utente Nicola per il reset password di un utente).
+
