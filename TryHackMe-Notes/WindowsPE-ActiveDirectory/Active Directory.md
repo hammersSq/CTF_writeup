@@ -22,5 +22,6 @@ Questo è possibile grazie all'Active Directory: Le tue credenziali non devono e
 Questo è quello che succede quando un utente prova ad accedere con le proprie credenziali a una macchina nella rete aziendale:
 1. La macchina invia una richiesta di autenticazione al Domain Controller.
 2. Il Domain Controller verifica le credenziali dell'utente confrontandole con le informazioni salvate nell'Active Directory. Se le credenziali sono corrette, l'utente viene autenticato.
-3. Una volta autenticato, viene generato un token di accesso che contiene i diritti e i privilegi dell'utente (e.g. i gruppi di cui fa parte e i permessi associati)
+3. Una volta autenticato, viene generato un **Token** di accesso che contiene i diritti e i privilegi dell'utente (e.g. i gruppi di cui fa parte e i permessi associati)
 
+## Active Directory Domain Service (AD DS)
