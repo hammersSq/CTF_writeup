@@ -41,3 +41,30 @@ Gli utenti possono rappresentare due tipi di entità:
 - **Servizi**: Un utente viene creato per uno specifico servizio, come ad esempio per gestire un database SQL. Le utenze di servizio vengono create con l'insieme minimo di privilegi per lanciare quel servizio.
 ### Machines
 Ad ogni computer nella rete aziendale viene associato un oggetto Macchina nell'Active Directory. Le macchine sono considerate dei **Security Principals** e per ogni macchina viene creato un account, come accade per gli utenti.
+
+L'account macchina è un admin locale nel computer a cui viene assegnato e generalmente nessuno dovrebbe accedervi se non il computer stesso. 
+Per prevenire l'accesso a questo tipo di account le loro password sono cambiate automaticamente e sono formate da 120 caratteri casuali.
+
+I nomi degli account macchina seguono una specifica naming convention: se il nome macchina è **DC01** l'account associato sarà **DC01$**.
+
+### Security Groups
+
+Un gruppo è un oggetto utilizzato principalmente per assegnare privilegi a un insieme di Users contemporaneamente invece di farlo singolarmente per ogni utente. 
+
+Un esempio potrebbe essere quello di voler dare a un utente il permesso ad accedere a tutte le stampanti dentro il Dominio: invece di dover impostare per quell'utente i permessi ad accedere a tutte le stampanti, utilizzando i gruppi sarà necessario solo aggiungerlo al gruppo con quei privilegi.
+
+Un gruppo può avere sia macchine e utenti come membri. Se necessario un gruppo può contenere altri gruppi.
+
+Gruppi creati di default:
+- **Domain Admins**: Gli utenti che appartengono a questo gruppo hanno privilegi di amministratore su tutto il dominio. Loro possono amministrare ogni computer nel dominio, inclusi i Domain Controllers.
+- **Server Operators**: Gli utenti in questo dominio possono amministrare i Domain Controllers. Gli utenti in questo gruppo non possono aggiungere o rimuovere utenti dai gruppi amministratore.
+- **Backup Operators**: Gli utenti in questo gruppo possono accedere ad ogni file, ignorando i loro permessi. Questo tipo di utenza è addetta a creare backup nei computers.
+- **Account Operators**: Gli utenti in questo gruppo possono creare e modificare altri account nel dominio.
+- **Domain Users**: Questo gruppo contiene tutti gli User nel dominio.
+- **Domain Computers**: Questo gruppo contiene tutti i computer nel dominio.
+- **Domain Controllers**: Questo gruppo contiene tutti i Domain Controllers nel dominio.
+
+### Organizational Units
+Le Organizational Units  sono strutture che consentono di organizzare e gestire oggetti come Utenti, Gruppi, Computer e altre risorse all' interno del dominio. 
+Queste sono fondamentali per garantire la gestione efficiente e sicura della rete aziendale.
+Le OUs permettono di definire insieme di utenti con requisiti di policy simili. 
