@@ -66,5 +66,19 @@ Gruppi creati di default:
 
 ### Organizational Units
 Le Organizational Units  sono strutture che consentono di organizzare e gestire oggetti come Utenti, Gruppi, Computer e altre risorse all' interno del dominio. 
+
 Queste sono fondamentali per garantire la gestione efficiente e sicura della rete aziendale.
-Le OUs permettono di definire insieme di utenti con requisiti di policy simili. 
+Le OUs permettono di definire insieme di utenti con requisiti di policy simili. Nelle aziende in genere persone che appartengono allo stesso dipartimento appartengono anche alla stessa OU.
+
+Le OU possono essere create in maniera arbitraria, ma alcune vengono create di default da Windows:
+- **Builtin**: Contiene tutti i gruppi disponibili sull'host Windows
+- **Computers**: Contiene tutte le macchine all' interno della rete.
+- **Domain Controllers**: Contiene tutti i Domain Controllers all'interno della rete. 
+- **Users**: Contiene Gruppi e Utenti di default che possono essere utilizzati in tutto il dominio
+-  **Managed Service Account**: Contiene Gli account usati dai servizi all'interno del Dominio.
+
+Ogni User può appartenere a più gruppi contemporaneamente, ma a una sola Organizational Unit. 
+
+Le OU sono utilizzate per gestire configurazioni specifiche per un certo dipartimento di un azienda, mentre i gruppi sono utilizzati per assegnare privilegi particolari a uno User.
+
+
