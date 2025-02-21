@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1cb1b354d6d0240",
+  "active": "4dab7ff145142514",
   "lastOpenFiles": [
     "Untitled.md",
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
