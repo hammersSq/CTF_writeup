@@ -17,4 +17,10 @@ Benefici di avere un Windows Domain:
 - **Gestione delle policy di sicurezza**: Le policy di sicurezza vengono configurate direttamente dall'Active Directory e applicate a tutti i computer e utenti nella rete.
 ### Esempio uso dei Domain e Active Directory
 Un esempio che probabilmente ti suonerà familiare è la gestione delle utenze all'interno della rete aziendale: Appena entrato in azienda ti vengono dati uno username e una password che puoi utilizzare per accedere a qualsiasi computer presente all'interno dell' Azienda. 
-Questo è possibile grazie all'Active Directory: Le tue credenziali non devono essere presenti in ogni macchina, ma ad ogni tuo accesso queste vengono valid
+Questo è possibile grazie all'Active Directory: Le tue credenziali non devono essere presenti in ogni macchina e sono disponibili su tutta le rete. 
+
+Questo è quello che succede quando un utente prova ad accedere con le proprie credenziali a una macchina nella rete aziendale:
+1. La macchina invia una richiesta di autenticazione al Domain Controller.
+2. Il Domain Controller verifica le credenziali dell'utente confrontandole con le informazioni salvate nell'Active Directory. Se le credenziali sono corrette, l'utente viene autenticato.
+3. Una volta autenticato, viene generato un token di accesso che contiene i diritti e i privilegi dell'utente (e.g. i gruppi di cui fa parte e i permessi associati)
+
