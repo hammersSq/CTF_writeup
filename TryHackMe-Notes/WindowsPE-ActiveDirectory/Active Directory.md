@@ -12,3 +12,9 @@ mentre in aziende molto piccole può sembrare fattibile configurare macchine  e 
 Il concetto dietro un Windows Domain è quello di centralizzare l' amministrazione dei componenti della rete aziendale in un unica cartella chiamata **Active Directory**. 
 Il server che garantisce l'accesso all' Active Directory è chiamato **Domain Controller**.
 
+Benefici di avere un Windows Domain:
+- **Gestione centralizzata delle utenze**: tutti gli utenti nella rete aziendale possono essere configurati e gestiti dall'Active Directory con il minimo sforzo.
+- **Gestione delle policy di sicurezza**: Le policy di sicurezza vengono configurate direttamente dall'Active Directory e applicate a tutti i computer e utenti nella rete.
+### Esempio uso dei Domain e Active Directory
+Un esempio che probabilmente ti suonerà familiare è la gestione delle utenze all'interno della rete aziendale: Appena entrato in azienda ti vengono dati uno username e una password che puoi utilizzare per accedere a qualsiasi computer presente all'interno dell' Azienda. 
+Questo è possibile grazie all'Active Directory: Le tue credenziali non devono essere presenti in ogni macchina, ma ad ogni tuo accesso queste vengono valid
