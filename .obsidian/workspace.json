@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory"
+              "title": "README"
+            }
+          },
+          {
+            "id": "93a9452a07417caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fb2b8eeaa67a3f2",
@@ -175,12 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1cb1b354d6d0240",
+  "active": "93a9452a07417caa",
   "lastOpenFiles": [
-    "natas/Natas8.md",
-    "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
-    "Untitled.md",
     "README.md",
+    "Notes.md",
+    "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
+    "natas/Natas8.md",
+    "Untitled.md",
     "HackTheBox/pwn/Execute.md",
     "TryHackMe-Notes/WindowsPE-ActiveDirectory",
     "TryHackMe-Notes",
