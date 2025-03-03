@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "TryHackMe-Notes/WindowsPE-ActiveDirectory/Useful path for infotmation (where to find flag).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Useful path for infotmation (where to find flag)"
             }
           }
         ],
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93a9452a07417caa",
+  "active": "4dab7ff145142514",
   "lastOpenFiles": [
     "README.md",
+    "TryHackMe-Notes/WindowsPE-ActiveDirectory/Useful path for infotmation (where to find flag).md",
     "Notes.md",
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
     "natas/Natas8.md",
