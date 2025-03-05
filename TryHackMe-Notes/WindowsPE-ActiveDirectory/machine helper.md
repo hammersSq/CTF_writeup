@@ -5,7 +5,7 @@ Password saved, command to log as mike.katz
 
 DB password connection string
     
-    <add connectionString="Server=thm-db.local;Database=thm-sekure;User ID=db_admin;Password=098n0x35skjD3" name="THM-DB" />
+    <add connectionString="Server=thm-db.local;Database=thm-sekure;User ID=db_admin;Password=s" name="THM-DB" />
 
 putty credenitals command : ```shell-session
 reg query HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ /f "Proxy" /s
