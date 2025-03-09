@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fb2b8eeaa67a3f2",
@@ -194,8 +193,8 @@
   "lastOpenFiles": [
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/machine helper.md",
     "Machine_with_read_team/Notes christian working.md",
-    "Machine_with_read_team",
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/Useful path for infotmation (where to find flag).md",
+    "Machine_with_read_team",
     "README.md",
     "Notes.md",
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
