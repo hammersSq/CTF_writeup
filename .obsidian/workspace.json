@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe-Notes/rooms/basic pentesting.md",
+                "file": "Postazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basic pentesting"
+              "title": "Postazione"
             }
           }
         ],
@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,7 +201,7 @@
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/Useful path for infotmation (where to find flag).md",
     "Machine_with_read_team",
     "README.md",
-    "Notes.md",
+    "Postazione.md",
     "TryHackMe-Notes/WindowsPE-ActiveDirectory/Active Directory.md",
     "natas/Natas8.md",
     "Untitled.md",
